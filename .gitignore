@@ -111,7 +111,7 @@ dist
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
-*.sqlite3
+*.sqlite
 
 # yarn v2
 .yarn/cache
